@@ -3,6 +3,10 @@
 ## Project Overview
 This project implements a maze generation algorithm using Depth-First Search (DFS) in Python. It randomly generate a maze and places random start and goal within the maze. The maze is displayed using the `matplotlib` library.
 
+## Repository Contents
+- `maze.ipynb`: A Jupyter Notebook that includes Cell and Maze class for the maze generator.
+- `maze_generator.ipynb`: A Jupyter Notebook that randomly generates a maze using Cell and Maze class.
+
 ## Dependencies
 To run this project, ensure that the `matplotlib` is installed.
 To install the package using pip, open a terminal or command prompt and run the following command:
@@ -11,7 +15,7 @@ pip install matplotlib
 ```
 
 ## Installation
-1. Clone Credit-Card-Fraud-Detection repository to local machine:
+1. Clone Random-Maze-Generator repository to local machine:
 ```shell
 git clone https://github.com/wenxie65/Random-Maze-Generator.git
 ```
